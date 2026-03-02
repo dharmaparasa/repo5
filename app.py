@@ -1,3 +1,4 @@
+Im the boss do what i say:
 age = int(input("Enter your age: ")) - Dev2 is best
 
 if age >= 18:

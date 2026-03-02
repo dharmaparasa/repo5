@@ -1,4 +1,4 @@
-age = int(input("Enter your age: "))
+age = int(input("Enter your age: ")) - Dev1 is great
 
 if age >= 18:
     print("You are an adult")
